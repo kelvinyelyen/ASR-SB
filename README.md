@@ -1,2 +1,2 @@
-# Automatic Speech Recognition (ASR) Sandbox
-This repo hosts my ongoing experiments in Automatic Speech Recognition (ASR). Using Python, Jupyter notebooks, I explore different techniques, technologies, and concepts related to ASR. New experiments will be added regularly as I continue on this learning path.
+# E2E ASR Sandbox
+This repository is dedicated to my experiments in End-to-End Automatic Speech Recognition (ASR). Using Python and Jupyter notebooks, I explore various ASR techniques and concepts. New experiments will be added regularly as I continue on this learning path.
